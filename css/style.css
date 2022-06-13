@@ -127,28 +127,28 @@ body{
     /* grid-template-rows: repeat(2,150px); */
 }
 .box1{
-    background-image: url(/img/pic-1.png);
+    background-image: url(../img/pic-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0px 0px;
     background-color: #855b07;
 }
 .box2{
-    background-image: url(/img/pic-2.png);
+    background-image: url(../img/pic-2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0px 0px;
     background-color:#9e8e9e;
 }
 .box3{
-    background-image: url(/img/pic-3.png);
+    background-image: url(../img/pic-3.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0px -50px;
     background-color:#cf5343;
 }
 .box4{
-    background-image: url(/img/pic-4.png);
+    background-image: url(../img/pic-4.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0px -100px;
